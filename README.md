@@ -30,7 +30,7 @@ Create a simple `add(string)` method that returns the sum of numbers in a string
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/incubyte-string-calculator-tdd.git
+git clone https://github.com/Channaveer6064/incubyte-string-calculator-tdd.git
 
 # Navigate into project
 cd incubyte-string-calculator-tdd
