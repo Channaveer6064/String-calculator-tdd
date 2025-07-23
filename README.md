@@ -20,7 +20,7 @@ Create a simple `add(string)` method that returns the sum of numbers in a string
 - Supports custom delimiters of any length (e.g., `//[***]\n1***2***3`)
 - Ignores numbers greater than 1000
 - Throws error for negative numbers
-- Unit tested using **JUnit** following strict **TDD discipline**
+- Unit tested using **Jest** following strict **TDD discipline**
 
 ## 🚀 Tech Stack
 
@@ -49,7 +49,7 @@ Create a simple `add(string)` method that returns the sum of numbers in a string
 git clone https://github.com/Channaveer6064/String-calculator-tdd
 
 # Navigate into project
-cd incubyte-string-calculator-tdd
+cd string-calculator-tdd
 
 # Install dependencies
 npm install
